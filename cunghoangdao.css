@@ -5,7 +5,7 @@
 }
 
 .box{
-	margin: 100px auto;
+	margin: 20px auto;
 	border: 2px solid black;
 	padding: 20px 20px;
 }
@@ -37,4 +37,12 @@ h1{
 #submit input:hover{
 	background-color: #f1f1f1;
 	border-radius: 2px;
+}
+
+#tencung{
+	text-decoration: none;
+}
+
+#tencung:hover{
+	text-shadow: 2px 2px yellow;
 }
