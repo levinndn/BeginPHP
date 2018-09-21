@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+
+.box{
+	margin: 100px auto;
+	border: 2px solid black;
+	padding: 20px 20px;
+}
+
+.one_column{
+	text-align: center;
+	padding: 15px;
+}
+
+.two_column{
+	text-align: right;
+	color: red;
+	padding: 5px;
+	width: 40%;
+}
+
+h1{
+	color: green;
+	font-style: italic;
+	font-weight: bold;
+	text-shadow: 2px 2px #9a82cc;
+	font-size: 50px;
+}
+
+#submit input{
+	padding: 5px 5px;
+}
+
+#submit input:hover{
+	background-color: #f1f1f1;
+	border-radius: 2px;
+}
